@@ -1,6 +1,6 @@
 ### The Monty Hall Problem
 
-O objetivo do software desenvolvidor é calcular, através de simulações
+O objetivo do software desenvolvido é calcular, através de simulações,
 as probabilidades relacionadas ao problema Monty Hall.
 
 #### Descrição do Problema
